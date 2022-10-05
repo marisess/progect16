@@ -9,10 +9,10 @@ a {
 }
 a{
     animation-name: animation1;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 @keyframes animation1{
-    0%   {width: 0; height: 0;}
+    0%  {padding: 0px; width: 0; height: 0;}
     75%  {width: 145px; height: 160px;} 
     100% {width: 125px; height: 150px;}
 }
